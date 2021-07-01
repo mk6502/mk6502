@@ -15,6 +15,14 @@ Nowadays I'm trying to do less code-writing and more of everything else:
 * Thinking about design patterns and architecture
 * Mentoring and leading a team building products
 
+### Stuff I've Worked On
+* Django! My first internship and full-time job was at a startup that was built on top of Django.
+* Built an Android app for fun. It was much easier than multiple failed attempts of creating an iOS app.
+* Machine Learning. Just scratched the surface. Feature engineering really is 95% of the job.
+* Built a CHIP-8 emulator. It plays Pong and that's pretty much it. Maybe I'll work on a Gameboy emulator next.
+* Spark, Hadoop, Hive. My second job was doing that on Azure. My current job was doing that on-prem, then we migrated to AWS.
+* AWS EC2, EMR, ECS, EKS, Lambda, API Gateway, CodePipeline, VPC, IAM, and plenty more acronyms. What I currently do every day.
+
 ### Everything Else
 In my spare time nowdays I chip away at a Master's Degree (OMSCS), one course at a time. I'm more than halfway done, there's no turning back now.
 My wife and I enjoy hiking, biking, traveling, and playing with our Shih Tzu.

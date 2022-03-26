@@ -1,4 +1,16 @@
-baseURL = 'https://mk6502.github.io'
+baseURL = 'https://mk6502.github.io/mk6502'
 languageCode = 'en-us'
 title = 'Mike Staszel'
 theme = 'mini'
+canonifyurls = true
+githubName = 'mk6502'
+linkedinName = 'mikestaszel'
+email = 'mike@staszel.me'
+
+[permalinks]
+post = "/:slug/"​
+
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"

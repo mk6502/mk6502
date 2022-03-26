@@ -1,0 +1,4 @@
+baseURL = 'https://mk6502.github.io'
+languageCode = 'en-us'
+title = 'Mike Staszel'
+theme = 'mini'

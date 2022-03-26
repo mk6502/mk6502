@@ -8,9 +8,9 @@ linkedinName = 'mikestaszel'
 email = 'mike@staszel.me'
 
 [permalinks]
-post = "/:slug/"​
+post = '/:slug/'
 
 [sitemap]
-ChangeFreq = ""
-Filename = "sitemap.xml"
-Priority = "-1"
+ChangeFreq = ''
+Filename = 'sitemap.xml'
+Priority = '-1'
